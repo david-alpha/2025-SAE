@@ -1,0 +1,22 @@
+
+BLOC 1 :
+choisir un environnement de travail (spyder, vs, ...)
+1 lecture - 1.5
+2 lecture avancée (conditions if for ....) - 2.2
+3 extraction - 3.1 (sous format de tableau)
+4 transformation en graphe
+5 markdown pour affichage d'une page html
+
+BLOC 2 :
+- monter en compétences 
+	format ics
+	python
+	markdown
+	transformation graphe
+	excel (vba)
+
+BLOC 3 :
+Rendu du travail
+- préparer un power point
+- faire une notice en anglais
+- mettre en place un github. (github.com)
